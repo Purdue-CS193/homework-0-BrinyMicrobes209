@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FPurdueUnivNews%2Fstatus%2F1440668453388517386&psig=AOvVaw2K0UP69b_Xk8Un27rvxKgt&ust=1725035836621000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCjwbbRmogDFQAAAAAdAAAAABAE)
+[Link](url) and ![Image](purdueArch.jpg)
 
 ```
 
