@@ -9,8 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```
 # Justin Dong's First CS193 Homework
-- _My only friend in class! :(_
-- _The TA's!_
+- My only friend in class! :(
+- The TA's!
 ```
 ```markdown
 Syntax highlighted code block
@@ -29,9 +29,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-# Justin Dong's First CS193 Homework
--My only friend in class! :(
--The TA's!
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
