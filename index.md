@@ -30,7 +30,8 @@ Syntax highlighted code block
 - My only friend in class! :(
 - The TA's!
 - Magical word
-- 5 PM class 
+- 5 PM class
+- Only 20 minute walk from my dorm
 
 ![Image](purdueArch.jpg)
 
