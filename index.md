@@ -29,8 +29,10 @@ Syntax highlighted code block
 # **Justin Dong's First CS193 Homework**
 - My only friend in class! :(
 - The TA's!
+- Magical word
+- 5 PM class 
 
-![Image]()
+![Image](purdueArch.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
