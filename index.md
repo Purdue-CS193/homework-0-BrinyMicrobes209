@@ -24,13 +24,13 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image]()
+```
 
 # **Justin Dong's First CS193 Homework**
 - My only friend in class! :(
 - The TA's!
 
-
-```
+![Image]()
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
