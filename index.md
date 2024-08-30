@@ -31,7 +31,7 @@ Syntax highlighted code block
 - The TA's!
 - Magical word
 - 5 PM class
-- Only 20 minute walk from my dorm
+- Only 20 minute walk from my dorm 🤣
 
 ![Image](purdueArch.jpg)
 
